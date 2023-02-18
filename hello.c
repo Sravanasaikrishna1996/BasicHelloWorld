@@ -26,5 +26,6 @@ int main()
 	
 	printf("Basic Example program in GIT");
 	//local changes done	       
+	//Remote repository commit 
 	printf("This line Changes done from Remote Repo--> GITHUB");
 }
