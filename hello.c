@@ -22,10 +22,11 @@ int main()
 {
 	printf("Hello World");
 
-	printf("Hello Git Hub);
+	printf("Hello Git Hub");
 	
 	printf("Basic Example program in GIT");
 	//local changes done	       
 	//Remote repository commit 
 	printf("This line Changes done from Remote Repo--> GITHUB");
+	printf("This is a new branch");
 }
