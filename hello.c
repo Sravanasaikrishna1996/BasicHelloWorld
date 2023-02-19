@@ -24,11 +24,5 @@ int main()
 
 	printf("Hello Git Hub");
 	
-	printf("Basic Example program in GIT");
-	//local changes done	       
-	//Remote repository commit 
-
-	printf("This is a new branch");
-	printf("Extra change in branch");
-	printf("DEleting some lines in branch 2")
+	printf("third branch-3");
 }
